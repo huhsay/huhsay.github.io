@@ -13,7 +13,7 @@ description: App develop
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/aweekj/kiko-now/master/images/jekyll-logo.png
+avatar: 
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -22,6 +22,8 @@ avatar: https://raw.githubusercontent.com/aweekj/kiko-now/master/images/jekyll-l
 navigation:
   - name: About
     url: /about
+  - name: Resume
+    url: /resume
   - name: Archive
     url: /archive
   - name: Tags
