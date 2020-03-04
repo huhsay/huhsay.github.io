@@ -1,15 +1,27 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+![profile](/images/profile.png)
+Hello! I'm theodore Lee, app developer.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+## Theodore Lee
 
-### Contact me
+ 현재 IT 회사에서 일하고 있는 1년차 앱 개발자 이화중입니다.
 
-[email@domain.com](mailto:email@domain.com)
+사실 개발보다 이것저것 다른일들을 하는 것을 더 좋아합니다;-)
+
+고양이는 사랑이고 사진찍기 유튜브보기도 좋아합니다.
+
+
+
+## Contact me!
+
+**GitHub** [https://github.com/huhsay](https://github.com/huhsay)
+
+**Instagram** [theodore.\_.92](https://www.instagram.com/theodore._.92)
+
+**e-mail** [bethejustice@naver.com](mailto:bethejustice@naver.com)

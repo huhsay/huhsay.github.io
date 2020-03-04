@@ -1,9 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: 회고 2019
 tags:
-  - test
-  - tags
+  - 회고
+  - 2019
+  - 취준
 ---
 
 I'm ready for writing new post in here!
