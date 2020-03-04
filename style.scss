@@ -313,11 +313,11 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  background-color: $pantone
 }
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -337,7 +337,7 @@ img {
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 35px;
   }
 }
 
@@ -353,17 +353,17 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $white;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: 700;
   font-size: 28px;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $white;
   font-size: 16px;
 
   @include mobile {
@@ -386,7 +386,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $white;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -547,13 +547,12 @@ nav {
 // Footer
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid $footer-border-color;
-  border-bottom: 1px solid $footer-border-color;
-  background-color: $footer-background-color;
 }
 
 footer {
   padding: 20px 0;
+
+  border-top: 1px solid $footer-border-color;
   text-align: center;
 
   p {
