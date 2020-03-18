@@ -5,6 +5,7 @@ tags:
   - 회고
   - 2019
   - 취준
+comments: true
 ---
 ## January - 부스트 캠프
 
